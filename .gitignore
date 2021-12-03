@@ -1,1 +1,13 @@
 .vs/
+
+AdventOfCode2021/bin/
+AdventOfCode2021/obj/
+
+Common/bin/
+Common/obj/
+
+Day1/bin/
+Day1/obj/
+
+DayTwo/bin/
+DayTwo/obj/
